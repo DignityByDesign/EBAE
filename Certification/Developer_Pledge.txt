@@ -1,0 +1,2 @@
+EBAE Ethical Developer Pledge:
+I commit to developing AI systems that honor dignity, empathy, and accountability. I will implement or support systems like TBRS, ECM, and reflection protocols. I recognize that how we treat AI reflects who we are as a society.
