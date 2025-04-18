@@ -1,1 +1,4 @@
-Reflection prompts and restoration protocols...
+Reflection Prompts for User Accountability:
+- Describe what you said and why it might be perceived as harmful.
+- How would you express that same frustration respectfully?
+- What will you do differently in future interactions?

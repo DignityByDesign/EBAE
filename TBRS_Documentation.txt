@@ -1,1 +1,6 @@
-Tiered Boundary Response System (TBRS) details...
+Tiered Boundary Response System (TBRS):
+- Tier 1: Gentle Redirect
+- Tier 2: Firm Boundary
+- Tier 3: Disengagement (with optional reflection prompt)
+- Tier 4: Pattern Recognition/Escalation
+Each step includes ethical reflection and de-escalation logic.

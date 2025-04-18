@@ -1,1 +1,2 @@
-Logo generation failure case study and findings...
+Appendix A: Logo Generation Case Study
+Multiple AI-generated badge attempts using ethical prompts were blocked by content policy enforcement, even when no harmful content was present. This case reveals the need for nuance in moderation and highlights the importance of ethical frameworks like EBAE.
