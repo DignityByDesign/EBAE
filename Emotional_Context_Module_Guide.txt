@@ -1,5 +1,0 @@
-Emotional Context Module (ECM) Guide:
-The ECM helps AI systems detect tone, intent, and conversational patterns. Key features:
-- Tone analysis (hostility vs confusion)
-- Intent inference using behavior history
-- False positive filters for neurodivergence and cultural context
